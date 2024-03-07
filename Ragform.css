@@ -1,0 +1,99 @@
+ * {
+     margin: 0%;
+     padding: 0%;
+ }
+
+ .headding {
+
+     background-color: #113b65;
+
+     color: #fff;
+     font-size: 24px;
+     margin: 0px 180px 8px 180px;
+     padding: 8px 16px;
+     text-align: center;
+     margin-bottom: 2%;
+ }
+
+ #exp_month,
+ #current_ctc_th,
+ #var_ctc_th,
+ #exp_ctc_th {
+     margin-top: 32px;
+ }
+
+ #submit {
+
+     background-color: #a0daf3;
+     border: none;
+     padding: 12px 50px;
+     margin: 2% 0% 0% 35%;
+
+     border-radius: 1%;
+     font-size: 24px;
+     width: 30%;
+     font-weight: bolder;
+
+ }
+
+ .button #submit:hover {
+     color: #fff;
+     background-color: #113b65;
+ }
+
+ i {
+     font-size: 10px;
+     color: red;
+ }
+
+ label {
+     font-weight: bold;
+ }
+
+ .row label:hover {
+     color: #fff;
+     background-color: #113b65;
+
+ }
+
+ .error {
+     color: red;
+ }
+
+ #user_table {
+     display: none;
+     margin-top: 3%;
+     text-align: center;
+     font-size: 15px;
+     
+     
+ }
+
+ th {
+     padding-right: 50px;
+     background-color: #113b65;
+     color: #fff;
+    padding-left:30px;
+ }
+
+img{
+    height: 100%;
+    width: 100%;
+}
+
+#user_table button{
+    padding: 5px;
+    margin-left: 10px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+#view{
+height: 200px;
+width: 200px;
+}
+/* #container1{
+    background-color:antiquewhite;
+} */
